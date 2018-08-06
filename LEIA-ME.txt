@@ -1,0 +1,7 @@
+Para ter acesso ao aplicativo:
+
+1)Importar o projeto para o Android Studio(Colar a pasta TrabSD onde ficam salvos os projetos).
+2)Importar o projeto Webservices para o NetBeans.
+3)Para acessar da tela de usuário digite Nome:Douglas Senha:123456
+4)Para acessar a tela de administrador digite Nome:Admin Senha:admin
+5)Deve desabilitar o FireWall do sistema para liberação das portas.
